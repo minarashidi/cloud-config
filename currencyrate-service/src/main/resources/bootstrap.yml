@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: currencyrate-service
+  cloud:
+    config:
+      uri: localhost:8080
